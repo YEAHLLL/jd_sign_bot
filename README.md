@@ -19,3 +19,10 @@
 2. 签到并发送通知
 
 详情参考文章:[京东定时签到-腾讯云 实现](http://fulade.me/tips-jd-auto-sigh-2.html)
+
+
+
+
+
+
+
