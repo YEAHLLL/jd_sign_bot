@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/YEAHLLL/jd_sign_bot/0.png">
+    <img src="https://cdn.jsdelivr.net/gh/YEAHLLL/YEAHLLL.github.io/jd_sign_bot/0.png">
 </p>
 
 
@@ -19,6 +19,7 @@
 3.签到并发送通知
 
 详情参考文章:[京东定时签到-腾讯云 实现](http://fulade.me/tips-jd-auto-sigh-2.html)
+
 
 
 
