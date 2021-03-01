@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/Johnson8888/jd_sign_bot/0.png">
+    <img src="https://cdn.jsdelivr.net/gh/YEAHLLL/jd_sign_bot/0.png">
 </p>
 
 
