@@ -1,7 +1,6 @@
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/YEAHLLL/YEAHLLL.github.io/jd_sign_bot/0.png">
+    <img src="https://cdn.jsdelivr.net/gh/ruicky/ruicky.github.io/2020/06/05/jd_sign_bot/0.png">
 </p>
-
 
 <p align="center">
     <img alt="Version" src="https://img.shields.io/badge/release-0.0.1-blue"/>
@@ -10,20 +9,13 @@
     </a>
 </p>
 
-
 ### 京东自动签到
 功能：
-
 1.获取签到最新代码
 2.替换参数值 
 3.签到并发送通知
 
-详情参考文章:[京东定时签到-腾讯云 实现](http://fulade.me/tips-jd-auto-sigh-2.html)
-
-
-
-
-
+详情参考文章:[京东定时签到-腾讯云 实现](https://ruicky.me/2020/06/05/jd-sign/)
 
 
 
