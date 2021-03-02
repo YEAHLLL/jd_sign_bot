@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/ruicky/ruicky.github.io/2020/06/05/jd_sign_bot/0.png">
+    <img src="https://cdn.jsdelivr.net/gh/Johnson8888/Johnson8888.github.io/2020/06/05/jd_sign_bot/0.png">
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@
 3.签到并发送通知
 
 详情参考文章:[京东定时签到-腾讯云 实现](https://ruicky.me/2020/06/05/jd-sign/)
+
 
 
 
